@@ -22,5 +22,5 @@ GitHub Stats
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gnefil&column=5&margin-w=10&margin-h=10&theme=darkhub" alt="Gnefil's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gnefil&column=5&margin-w=10&margin-h=10&theme=flat" alt="Gnefil's GitHub Trophies"/>
 </div>
