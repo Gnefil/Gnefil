@@ -25,33 +25,27 @@ Programming Languages
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=oracle&logoColor=F80000)
-![HTML](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-Framework and Tools  
+Developer Tools  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0098FF?style=flat-square)
+![VS Code](https://img.shields.io/badge/</>-VS_Code-0098FF?style=flat-square&labelColor=0098FF)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS-Code-white?style=flat-square&labelColor=0098FF)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat-square&logo=jupyter&logoColor=F37626)
-![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Pandas](https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas&logoColor=150458)
-![Numpy](https://img.shields.io/badge/Numpy-white?style=flat-square&logo=numpy&logoColor=013243)
-![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazon-web-services&logoColor=232F3E)
-![Docker](https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=2496ED)
+Frameworks  
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 
+Natural Languages  
+
+![Chinese](https://img.shields.io/badge/🇨🇳-Chinese-DE2910?style=flat-square&labelColor=FFDE00)
+![Spanish](https://img.shields.io/badge/🇪🇸-Spanish-F1BF00?style=flat-square&labelColor=AA151B)
+![English](https://img.shields.io/badge/🇬🇧-English-00247D?style=flat-square&labelColor=CF142B)
 
 # GitHub Stats
 
