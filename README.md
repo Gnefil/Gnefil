@@ -10,7 +10,7 @@
 - Did research-focus Student Placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computation biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
 - Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
 - Have Been a Workshop Executive for two years at the Data Science Society 📈 at the University of Manchester.
-- Interested in all kinds of game-changing ideas and technologies, such as BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
+- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
 - Recently learning 🔥 about RAG, Vue, and Signal Processing.
 - Looking to collaborate on any cool ideas! ✨
 - Experience in data analysis and processing, web dev, ML models training and applications.
