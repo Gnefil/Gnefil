@@ -6,14 +6,17 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-181717?logo=kaggle&logoColor=20BEFF)]([https://www.linkedin.com/in/lifengqiulin/](https://www.kaggle.com/lifengqiu))
 > Declare the birth of a legend, and nothing will hinder its composition.
 
-- 24-25 Artificial Intelligence Master Postgraduate 📖 at the University College London. Computer Science (HCI) Bachelor of Science graduated with Honours in First Class at the University of Manchester. 🎓
-- Master's thesis on perceptual-guided steganography, consisting of effective hiding payload in images, and embedding data aided by human visual system. Mentored and supervised by: Dr Kaan Akşit.
-- Did research-focused Student Placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
-- Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
-- Have been a Workshop Executive for two years at the Data Science Society 📈 at the University of Manchester.
-- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as bio-inspired AI, BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
+## What's Recently
 - Recently learning 🔥 about vector-quantised VAE, cost-effectiveness of LLM fine-tuning, and biomedical image modelling.
+- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as bio-inspired AI, BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
 - Looking to collaborate on any cool ideas! ✨
+
+
+## Education and Experience
+- Distinction level (expected) Master of Science in Artificial Intelligence 📖 at the University College London. Master's thesis 📜 on perceptual-guided steganography, consisting of effective hiding payload in images, and embedding data aided by human visual system. Mentored and supervised by: Dr Kaan Akşit. 
+- Yearly placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
+- First Class Honours 🎓 Bachelor of Science in Computer Science (HCI) 📖 at the University of Manchester. Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
+- Workshop executive in data science society, software engineer summer internship, AD brain network spreading models, PEFT in LLMs, etc.
 - Experience in ML dev and prod, data analysis and processing, web dev, LLM and CV.
 
 ## Tech Stack
@@ -22,6 +25,7 @@ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MatLab](https://img.shields.io/badge/MatLab-F34C05?style=flat-square&logo=matlab&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
