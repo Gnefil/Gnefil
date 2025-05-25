@@ -7,13 +7,14 @@
 > Declare the birth of a legend, and nothing will hinder its composition.
 
 - 24-25 Artificial Intelligence Master Postgraduate 📖 at the University College London. Computer Science (HCI) Bachelor of Science graduated with Honours in First Class at the University of Manchester. 🎓
-- Did research-focus Student Placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computation biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
+- Master's thesis on perceptual-guided steganography, consisting of effective hiding payload in images, and embedding data aided by human visual system. Mentored and supervised by: Dr Kaan Akşit.
+- Did research-focused Student Placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
 - Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
-- Have Been a Workshop Executive for two years at the Data Science Society 📈 at the University of Manchester.
-- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
-- Recently learning 🔥 about RAG, Vue, and Signal Processing.
+- Have been a Workshop Executive for two years at the Data Science Society 📈 at the University of Manchester.
+- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as bio-inspired AI, BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
+- Recently learning 🔥 about vector-quantised VAE, cost-effectiveness of LLM fine-tuning, and biomedical image modelling.
 - Looking to collaborate on any cool ideas! ✨
-- Experience in data analysis and processing, web dev, ML models training and applications.
+- Experience in ML dev and prod, data analysis and processing, web dev, LLM and CV.
 
 ## Tech Stack
 
@@ -36,8 +37,10 @@ Developer Tools
 Frameworks  
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SkLearn](https://img.shields.io/badge/SkLearn-F7931e?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 
