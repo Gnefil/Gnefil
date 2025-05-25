@@ -15,7 +15,7 @@
 ## Education and Experience
 - Distinction level (expected) Master of Science in Artificial Intelligence 📖 at the University College London. Master's thesis 📜 on perceptual-guided steganography, consisting of effective hiding payload in images, and embedding data aided by human visual system. Mentored and supervised by: Dr Kaan Akşit. 
 - Yearly placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
-- First Class Honours 🎓 Bachelor of Science in Computer Science (HCI) 📖 at the University of Manchester. Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
+- First Class Honours 🎓 Bachelor of Science in Computer Science (HCI) 📖 at the University of Manchester. Stellify Award ☄️. Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
 - Workshop executive in data science society, software engineer summer internship, AD brain network spreading models, PEFT in LLMs, etc.
 - Experience in ML dev and prod, data analysis and processing, web dev, LLM and CV.
 
