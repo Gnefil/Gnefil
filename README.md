@@ -4,19 +4,22 @@
 [![Blog](https://img.shields.io/badge/Gnefil's_Singularity-181717?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNi4wIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2VlNzE0NyIgZD0iTTM2MS41IDEuMmM1IDIuMSA4LjYgNi42IDkuNiAxMS45TDM5MSAxMjFsMTA3LjkgMTkuOGM1LjMgMSA5LjggNC42IDExLjkgOS42czEuNSAxMC43LTEuNiAxNS4yTDQ0Ni45IDI1Nmw2Mi4zIDkwLjNjMy4xIDQuNSAzLjcgMTAuMiAxLjYgMTUuMnMtNi42IDguNi0xMS45IDkuNkwzOTEgMzkxIDM3MS4xIDQ5OC45Yy0xIDUuMy00LjYgOS44LTkuNiAxMS45cy0xMC43IDEuNS0xNS4yLTEuNkwyNTYgNDQ2LjlsLTkwLjMgNjIuM2MtNC41IDMuMS0xMC4yIDMuNy0xNS4yIDEuNnMtOC42LTYuNi05LjYtMTEuOUwxMjEgMzkxIDEzLjEgMzcxLjFjLTUuMy0xLTkuOC00LjYtMTEuOS05LjZzLTEuNS0xMC43IDEuNi0xNS4yTDY1LjEgMjU2IDIuOCAxNjUuN2MtMy4xLTQuNS0zLjctMTAuMi0xLjYtMTUuMnM2LjYtOC42IDExLjktOS42TDEyMSAxMjEgMTQwLjkgMTMuMWMxLTUuMyA0LjYtOS44IDkuNi0xMS45czEwLjctMS41IDE1LjIgMS42TDI1NiA2NS4xIDM0Ni4zIDIuOGM0LjUtMy4xIDEwLjItMy43IDE1LjItMS42ek0xNjAgMjU2YTk2IDk2IDAgMSAxIDE5MiAwIDk2IDk2IDAgMSAxIC0xOTIgMHptMjI0IDBhMTI4IDEyOCAwIDEgMCAtMjU2IDAgMTI4IDEyOCAwIDEgMCAyNTYgMHoiLz48L3N2Zz4=)](https://blog.gnefil.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lifengqiulin/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-181717?logo=kaggle&logoColor=20BEFF)]([https://www.linkedin.com/in/lifengqiulin/](https://www.kaggle.com/lifengqiu))
-> Declare the birth of a legend, and nothing will hinder its composition.
+> Declare the birth of a legend; nothing shall hinder, only prosper.
 
 ## What's Recently
-- Recently learning 🔥 about vector-quantised VAE, cost-effectiveness of LLM fine-tuning, and biomedical image modelling.
-- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as bio-inspired AI, BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
+- Currently working on bio-inspired artificial intelligence, under the supervision of Professor [Xiaolin Hu](https://www.xlhu.cn/). Research under the Tsinghua Statistical Artificial Intelligence & Learning [(TSAIL)](https://ml.cs.tsinghua.edu.cn/) group. Funded by the Visiting Student Research Fellowship.
+- Through understanding and examination, overcome barriers to delegate jobs to agents, absolutely boosting productivity.
+- Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
 - Looking to collaborate on any cool ideas! ✨
 
 
 ## Education and Experience
-- Distinction level (expected) Master of Science in Artificial Intelligence 📖 at the University College London. Master's thesis 📜 on perceptual-guided steganography, consisting of effective hiding payload in images, and embedding data aided by human visual system. Mentored and supervised by: Dr Kaan Akşit. 
-- Yearly placement at MSD as a Bioinformatic Scientist 🔬. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr Wei Wei.
-- First Class Honours 🎓 Bachelor of Science in Computer Science (HCI) 📖 at the University of Manchester. Stellify Award ☄️. Bachelor's dissertation 📜 on *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Dr Oliver Rhodes.
-- Workshop executive in data science society, software engineer summer internship, AD brain network spreading models, PEFT in LLMs, etc.
+- 🎓 Distinction-level Master of Science in Artificial Intelligence at the University College London.
+  - 📜 Master's thesis - *Foveation-Guided Steganography Using Latent Representations: A Perceptual Approach to Improve Payload Capacity and Visual Fidelity*. [Published](https://dl.acm.org/doi/pdf/10.1145/3757374.3771423) in ACM SIGGRAPH Asia 2025 [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf), mentored and supervised by Professor [Kaan Akşit](https://www.kaanaksit.com/). 
+- 🔬 Yearly placement at MSD as a Bioinformatic Scientist. Supported and tackled many drug-discovery challenges in computational biology spaces, 🧬 mainly on Protein-Protein Interaction Networks. Mentored and supervised by Dr [Wei Wei](https://scholar.google.com/citations?user=88IB_W4AAAAJ).
+- 🎓 First Class Honours Bachelor of Science in Computer Science (HCI) at the University of Manchester. Stellify Award ☄️.
+  - 📜 Bachelor's thesis - *A Comparative Study of Motor Imagery Approaches in EEG-based Brain-Computer Interfaces*. Mentored and supervised by: Professor [Oliver Rhodes](https://scholar.google.com/citations?user=YKS52KIAAAAJ).
+- Other bits of my life: workshop executive in the Data Science Society, software engineer summer internship, AD brain network spreading models, PEFT in LLMs, etc.
 - Experience in ML dev and prod, data analysis and processing, web dev, LLM and CV.
 
 ## Tech Stack
@@ -57,7 +60,8 @@ Natural Languages
 # GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnefil&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=Stendhal-Game&theme=flat" alt="Gnefil's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnefil&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=Stendhal-Game&theme=blueberry" alt="Gnefil's Top Languages"/>
+
 </div>
 
 <br>
