@@ -7,7 +7,7 @@
 > Declare the birth of a legend; nothing shall hinder, only prosper.
 
 ## What's Recently
-- Currently working on bio-inspired artificial intelligence, under the supervision of Professor [Xiaolin Hu](https://www.xlhu.cn/). Research under the Tsinghua Statistical Artificial Intelligence & Learning [(TSAIL)](https://ml.cs.tsinghua.edu.cn/) group. Funded by the Visiting Student Research Fellowship.
+- Currently working on bio-inspired artificial intelligence, under the supervision of Professor [Xiaolin Hu](https://www.xlhu.cn/). Research under the Tsinghua Statistical Artificial Intelligence & Learning [(TSAIL)](https://ml.cs.tsinghua.edu.cn/) group. Funded by the Tsinghua University International Visiting Student Research Fellowship.
 - Through understanding and examination, overcome barriers to delegate jobs to agents, absolutely boosting productivity.
 - Interested in all kinds of game-changing ideas and technologies, especially in areas of computer science and neuroscience, such as BCI 🧠, VR 🥽, and exploring the immense universe 🌎🌕☄️🪐🚀.
 - Looking to collaborate on any cool ideas! ✨
